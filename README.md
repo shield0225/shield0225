@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shield Salcedo</h1>
-<h3 align="center">💻 Full-stack and DevOps developer. Founder of Shield InfoTech Solutions Inc.
-🚀 Building secure, scalable, and accessible web & mobile solutions tailored for real-world impact.
-💼 Specializing in React, Next.js, React Native, Node.js, MongoDB, and cloud-native systems.
+<h3 align="center">💻 Full-stack and DevOps developer. Founder of Shield InfoTech Solutions Inc.<br>
+🚀 Building secure, scalable, and accessible web & mobile solutions tailored for real-world impact.<br>
+💼 Specializing in React, Next.js, React Native, Node.js, MongoDB, and cloud-native systems.<br>
 📍 Project-based delivery | Custom software | Contact center integrations | AI & accessibility-ready apps</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shield0225&label=Profile%20views&color=0e75b6&style=flat" alt="shield0225" /> </p>
