@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shield Salcedo</h1>
-<h3 align="center">💻 Full-stack and DevOps developer. <br>Founder of Shield InfoTech Solutions Inc.<br>
+<h3 align="center">💻 Full-stack and DevOps developer. </h3><h3 align="center">Founder of Shield InfoTech Solutions Inc.<br>
 📍 Project-based delivery | Custom software | Contact center integrations | AI & accessibility-ready apps</h3>
 <h4 align="center">🚀 Building secure, scalable, and accessible web & mobile solutions tailored for real-world impact.
 💼 Specializing in React, Next.js, React Native, Node.js, MongoDB, and cloud-native systems.</h4>
